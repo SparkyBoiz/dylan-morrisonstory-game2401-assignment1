@@ -60,11 +60,12 @@
         "*.asset": "yaml",
         "*.meta": "yaml",
         "*.prefab": "yaml",
-        "*.unity": "yaml",
+        "*.unity": "yaml"
     },
     "explorer.fileNesting.enabled": true,
     "explorer.fileNesting.patterns": {
-        "*.sln": "*.csproj",
+        "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "Alberta_GameJam.sln"
+    "dotnet.defaultSolution": "dylan-morrisonstory-game2401-assignment1.sln",
+    "CodeGPT.apiKey": "OpenAI"
 }
